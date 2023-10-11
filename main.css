@@ -1,0 +1,290 @@
+.back{
+    background-image: url(./image/back.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.container{
+    width: 90%;
+    background-color: white;
+    margin: 30px auto;
+}
+.container-sec{
+    width: 95%;
+    margin: 20px auto;
+}
+.btn{
+    display: flex;
+    justify-content:end;
+    margin: 0px 30px;
+}
+.in-btn{
+    margin: 10px 15px;
+    padding: 8px 25px;
+    background-color: green;
+    color: white;
+    border-style: none;
+}
+.last-btn{
+    margin: 10px 15px;
+    padding: 8px 25px;
+    background-color: orangered;
+    color: white;
+    border-style: none;
+
+}
+.container-sec{
+    display: flex;
+}
+.container-seo{
+    width: 0px;
+}
+.green{
+    background-color: green;
+    color: white;
+    padding: 8px;
+}
+.inner{
+    margin: 20px 0px;
+}
+
+.h1{
+    color: red;
+}
+
+.h2{
+    color: yellow;
+}
+
+.h3{color: brown;
+}
+.para{
+    display: flex;
+    align-items: center;
+}
+.head{
+    margin: 0px 10px;
+    line-height: 0px;
+}
+#color{
+    color: orangered;
+}
+
+.sec-2{
+    display: flex;
+    justify-content: space-between;   
+}
+
+.bor{
+    border: 2px solid lightgray;
+    width: 20%;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    margin: 20px 20px;
+   
+}
+.p3{
+    margin: 0px 20px;
+}
+.heed{
+margin: 10px 20px;
+color: green;
+}
+
+.sec-3{
+    display: flex;
+   
+}
+.icon{
+    display: flex;
+
+    align-items: center;
+    margin: 0px 25px;
+}
+.pink{
+    margin: 0px 20px;
+}
+.select{
+    display: flex;
+    justify-content: space-between;
+ 
+   
+}
+.im{
+    border: 2px solid lightgray;
+    margin: 0px 15px;
+           
+}
+.ime{
+    border: 2px solid lightgray;
+    margin: 0px 15px;
+}
+img{
+    border: 2px solid lightgray;
+    margin: 0px 15px;
+}
+.bar{
+    padding: 0px 100px;
+    text-align: end;
+}
+input{
+    width: 30px;
+    margin: 5px 5px;
+}
+.pin{
+    margin: 0px 40px;
+}
+#button1{
+    border: 2px solid lightgray;
+}
+#hadd{
+    color: green;
+}
+
+#button1{
+    margin-top: -30;
+    padding: 10px 10px;
+    height: 200px;
+    color: lightgray;
+}
+.butt{
+    float: right;
+    padding: 6px 10px;
+    border-radius: 10px;
+    background-color:darkgreen;
+    color: white;
+}
+.last{
+    display: flex;
+    justify-content: space-between;
+}
+#d1{
+    margin-left: 70px;
+    text-align: center;
+}
+.last p > b{
+    color: red;
+}
+#d1 > p{
+    color: lightgray;
+}
+.pur{
+    font-size: 14px;
+}
+.d2{
+    margin: 0px 30px;
+}
+.side img{
+    width: 50px; 
+    padding: 8px 0px;
+    border-style: none;
+}
+.side{
+    width: 20%;
+    height: auto;
+    border: 2px solid lightgrey;
+    margin-top: -90px;
+}
+
+.feld{
+    width: 100px;
+}
+.side-bar{
+    display: flex;
+   
+}
+.cl{
+    color: green;
+}
+.line{
+    width: 200px;
+    height: 1px;
+    background-color: lightgray;
+    margin: 0px auto;
+    border: 1px solid lightgray;
+}
+.far{
+    border: 2px solid lightgray;
+   margin-top: -300px;
+   margin-left:  50px;
+   height: 170px;
+   width: 230px;
+}
+.pa{
+    color: green;
+    margin: 10px 20px;
+}
+
+.in{
+    width: 170px;
+    height: 30px;
+}
+.be{
+    padding-left: 2px;
+    margin-left: -10px;
+    background-color: green;
+    color: white;
+    height: 30px;
+    border: none;
+}
+.poor{
+    margin: 20px 10px;
+}
+
+#fez{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+pre{
+    font-size: 17px;
+}
+.ss{
+    width: 120px;
+    margin: 0px 40px;
+    
+}
+#pp{
+    margin: 30px 0px;
+    
+    
+}
+.i{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.footer{
+    border-bottom: 2px solid lightgray;
+    width: 80%;
+}
+.footer{
+    width: 80%;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.icon-box{
+    width: 30%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dropdown-box{
+    width: 50%;
+    height: 10vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.footer-box{
+    display: flex;
+    align-items: center;
+    height: 30px;
+}
